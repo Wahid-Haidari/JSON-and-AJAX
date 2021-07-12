@@ -1,0 +1,11 @@
+.hide-me{
+	display: none;
+}
+
+#btn{
+	background: lightblue;
+}
+
+#animal-info{
+	padding: 4em;
+}
